@@ -1,8 +1,8 @@
 build:
-  version: "2.6"
+  version: "3.5"
 
 accounts:
-  message: "Welcome to ZettaBank accounts related TESTING APIs from Git"
+  message: "Welcome to ZettaBank accounts related QA APIs from Git"
   contactDetails:
     name: "Sanjay - QA Lead"
     email: "sanjay@zettabank.com"
