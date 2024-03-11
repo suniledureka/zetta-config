@@ -1,10 +1,10 @@
 build:
-  version: "1.58"
+  version: "9.0"
 
 accounts:
-  message: "Welcome to ZettaBank accounts related TESTING APIs from GIT "
+  message: "Welcome to ZettaBank accounts related QA APIs from GIT "
   contactDetails:
-    name: "Sanjay - QA Lead"
+    name: "Sanjay Patil - QA Lead"
     email: "sanjay@zettabank.com"
   onCallSupport:
     - (040) 265-3765
