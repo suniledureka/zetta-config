@@ -1,7 +1,7 @@
 build:
   version: "8.23"
 
-accounts:
+loans:
   message: "Welcome to ZettaBank LOANS related PROD APIs from Git "
   contactDetails:
     name: "Valerie - Product Owner"
