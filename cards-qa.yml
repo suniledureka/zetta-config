@@ -1,0 +1,11 @@
+build:
+  version: "3.6"
+
+accounts:
+  message: "Welcome to ZettaBank CARDS related TESTING APIs from Git"
+  contactDetails:
+    name: "Sanjay - QA Lead"
+    email: "sanjay@zettabank.com"
+  onCallSupport:
+    - (040) 265-3765
+    - (040) 734-8371

@@ -1,0 +1,12 @@
+build:
+  version: "1.2" 
+  
+loans:
+  message: "Welcome to ZettaBank CARDS related APIs"
+  contactDetails:
+    name: "Sunil - Developer"
+    email: "sunil.j@zettabank.com"
+  onCallSupport:
+    - (40) 123-45678
+    - (40) 456-13459
+     
