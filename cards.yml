@@ -1,7 +1,7 @@
 build:
   version: "1.2" 
   
-loans:
+cards:
   message: "Welcome to ZettaBank CARDS related APIs"
   contactDetails:
     name: "Sunil - Developer"

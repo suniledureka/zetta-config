@@ -1,7 +1,7 @@
 build:
   version: "3.6"
 
-accounts:
+cards:
   message: "Welcome to ZettaBank CARDS related TESTING APIs from Git"
   contactDetails:
     name: "Sanjay - QA Lead"
